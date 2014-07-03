@@ -1,4 +1,5 @@
 ActiveAdmin.register Widget do
+  permit_params :edges
 
   
   # See permitted parameters documentation:
